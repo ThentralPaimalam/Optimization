@@ -93,5 +93,11 @@ Improve strategic planning
 The approach is scalable and can be adapted to any manufacturing or supply chain scenario where resource allocation plays a key role.
 
 **Conclusion:**
+
 Using PuLP for linear programming, this project successfully built a mathematical model that provides actionable insights for maximizing profit in chocolate production. The experience showcased the power of optimization in real-world business applications and strengthened skills in problem formulation, constraint handling, and model interpretation.
 
+## Output:
+
+![Image](https://github.com/user-attachments/assets/48a57142-ff89-4847-87eb-2ec8acc8c455)
+
+##
